@@ -29,4 +29,4 @@ A Netflix associate wants to understand the frequency of shows being released on
 5. The netflix associate wants to compare total number of shows vs distinct number of genres released each month. Create a line chart to find out how many unique genres are released in the month of January.<br>
 -> 207
 
-For More Enquiry Click On 👉 [LinkedIn](www.linkedin.com/in/udipta-anupam)
+For More Enquiry Click On 👉 [LinkedIn](https://www.linkedin.com/in/udipta-anupam/)
